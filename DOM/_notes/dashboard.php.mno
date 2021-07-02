@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_login" value="name:id_karyawan;datatype:int,name:nama;datatype:string,name:alamat;datatype:blob,name:tanggal lahir;datatype:date,name:unit;datatype:string,name:posisi;datatype:string,name:username;datatype:string,name:password;datatype:string,name:access_level;datatype:string" />
+</info>

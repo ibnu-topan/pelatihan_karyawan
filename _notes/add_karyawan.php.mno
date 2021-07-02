@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_peserta" value="name:pelatihan_ke;datatype:int,name:id_karyawan;datatype:int,name:nama;datatype:string,name:nama_training;datatype:blob,name:tanggal_training;datatype:date" />
+</info>

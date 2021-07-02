@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_karyawan" value="name:id_karyawan;datatype:int,name:nama;datatype:string,name:alamat;datatype:blob,name:tanggal lahir;datatype:date,name:unit;datatype:string,name:posisi;datatype:string,name:username;datatype:string,name:password;datatype:string,name:access_level;datatype:string" />
+	<infoitem key="UD_list_karyawanIkut" value="name:pelatihan_ke;datatype:int,name:id_karyawan;datatype:int,name:nama;datatype:string,name:nama_training;datatype:blob,name:tanggal_training;datatype:date" />
+</info>

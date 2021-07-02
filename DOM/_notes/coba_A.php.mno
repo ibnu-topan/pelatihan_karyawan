@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_proposal;datatype:int,name:tanggal_dikirim;datatype:date,name:pelatihan_ke;datatype:int,name:approvedby_HRD;datatype:string,name:approvedby_HC;datatype:string" />
+</info>
